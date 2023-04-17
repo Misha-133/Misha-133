@@ -20,4 +20,4 @@ https://user-images.githubusercontent.com/61027276/148688215-748a731d-9466-4e39-
   </tr>
 </table>
 
-Wanna donate a cup of tea? [Go to my Boosty](https://boosty.to/misha133)
+Wanna donate a cup of tea? [Check out my Boosty](https://boosty.to/misha133)
