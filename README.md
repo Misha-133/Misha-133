@@ -2,7 +2,7 @@
 
 - I'm just a student who loves writing some ~~shitty~~ code
 - My favorite language is C#, but I do also somewhat know Cpp
-- I'm currently studying at a university ([Voronezh State Univercity](https://vsu.ru)) for a software engineer spec
+- I'm currently studying at a university ([Voronezh State University](https://vsu.ru)) for a software engineer spec
 
 
 ___
