@@ -5,12 +5,12 @@
 - I'm currently studying at a university ([Voronezh State Univercity](https://vsu.ru)) for a software engineer spec
 
 
-_ _
-
-
-_ _
+___
 
 https://user-images.githubusercontent.com/61027276/148688215-748a731d-9466-4e39-98db-691347ed886c.mp4
+
+___
+
 
 <table>
   <tr>
