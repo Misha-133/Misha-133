@@ -3,7 +3,7 @@
 - I'm just a student who loves writing some ~~shitty~~ code
 - My favorite language is C#, but I do also somewhat know Cpp
 - I'm currently studying at a university ([Voronezh State University](https://vsu.ru)) for a software engineer spec
-- I'm 18 years old, d.o.b - 07.12.2004
+- I'm 19 years old, d.o.b - 07.12.2004
 - I play mostly sandbox games (well, if I have time)
 
 ___
