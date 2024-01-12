@@ -8,7 +8,8 @@
 
 ___
 
-- I'm currently learning docker & docker-compose 
+- maintainer of [Discord.Net](https://github.com/discord-net/Discord.Net)
+- co-developer of [Cakey Bot](https://cakey.bot/)
 
 ___
 
