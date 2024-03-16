@@ -24,7 +24,7 @@ ___
       <img src="https://github.com/Misha-133/gh-stats/blob/master/generated/overview.svg">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/Misha-133/gh-stats/b99925caf8559a8823665349e064377a50eb064f/generated/languages.svg">
+      <img src="https://github.com/Misha-133/gh-stats/blob/master/generated/languages.svg">
     </td>
   </tr>
   <tr>
