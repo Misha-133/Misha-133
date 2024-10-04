@@ -10,6 +10,7 @@ ___
 
 - maintainer of [Discord.Net](https://github.com/discord-net/Discord.Net)
 - co-developer of [Cakey Bot](https://cakey.bot/)
+- co-developer of [BMO](https://bmo.bot/)
 
 ___
 
