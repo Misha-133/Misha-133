@@ -1,6 +1,7 @@
 ### Hello there!
 
 - I'm just a student who loves writing some ~~shitty~~ code
+- I also do embedded dev at work; and backend; and desktop apps; and devops; and maintain the network; and servers; :harold:
 - My favorite language is C#, but I do also somewhat know Cpp
 - I'm currently studying at a university ([Voronezh State University](https://vsu.ru)) for a software engineer spec
 - I'm 20 years old, d.o.b - 07.12.2004
