@@ -4,7 +4,7 @@
 - I also do embedded dev at work; and backend; and desktop apps; and devops; and maintain the network; and servers; :harold:
 - My favorite language is C#, but I do also somewhat know Cpp
 - I'm currently studying at a university ([Voronezh State University](https://vsu.ru)) for a software engineer spec
-- I'm 20 years old, d.o.b - 07.12.2004
+- I'm 21 years old, d.o.b - 07.12.2004
 - I play mostly sandbox games (well, if I have time)
 
 ___
